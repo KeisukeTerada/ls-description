@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import pyyaml
+import yaml
 import argparse
 
 FILENAME = "./.lsd.yaml"
